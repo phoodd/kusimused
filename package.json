@@ -1,0 +1,17 @@
+{
+  "name": "kusimused",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "inquirer": "^9.2.12",
+    "simple-git": "^3.20.0"
+  }
+}
